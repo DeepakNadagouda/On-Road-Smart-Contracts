@@ -21,4 +21,4 @@ autonomous vehicles in the future.
 
 #Summary
 
-![arch](https://user-images.githubusercontent.com/45932617/96632422-f5909180-1317-11eb-9a98-0950bfdd6f20.png)
+https://github.com/DeepakNadagouda/On-Road-Smart-Contracts/blob/main/Summary.png
